@@ -21,11 +21,16 @@ header {
     background-image: url(../images/banner.jpg);
     background-size: cover;
     background-position: center;
+    margin-bottom: 2em;
+    
 }
 .hero h1,h3 {
     color: #25a2c3;
     font-family: 'Montserrat', sans-serif;
-    font-weight: bolder;
+    font-weight: bold;
+}
+.hero h1 {
+    font-size: 30px;
 }
 
 h2 {
@@ -56,12 +61,8 @@ h2 {
 .role img {
     max-width: 300px;
     max-height: 200px;
-    border-radius: 70%;
-      
+    border-radius: 70%;    
 } 
-    
-
-}
 .feature {
     text-align: center;
     border: 1px solid;
