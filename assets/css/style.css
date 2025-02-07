@@ -1,0 +1,116 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: black;
+    padding: 1rem;
+    text-align: center;
+}
+.logo img {
+    max-width: 200px;
+}
+.hero {
+    text-align: center;
+    padding: 2rem;
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.hero h1,h3 {
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: large;
+    font-weight: bold;
+}
+.hero button {
+    background-color: #f04c2f;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.extra-info {
+    padding: 1rem;
+    text-align: center;
+}
+.feature, .info-box {
+    margin: 1rem auto;
+    max-width: 300px;
+}
+.role {
+    text-align: center;
+}
+.role img {
+    max-width: 300px;
+    max-height: 200px;
+    border-radius: 70%;
+      
+} 
+    
+
+}
+.feature {
+    text-align: center;
+    border: 1px solid;
+    padding: 1px;
+    border-color:#dee1e3; 
+}
+
+.feature img, .info-box img {
+    width: 100%;
+    
+}
+ 
+.freedom {
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 300px;
+    border-radius: 10px;
+}
+.testimonial {
+    background-color: #e22d0e;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+.guarantee {
+    background-color: #f04c2f;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 3em;
+}
+.contact {
+    background-color: #25a2c3;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 4em;
+}
+.contact p {
+    margin: 0.5rem 0;
+}
+footer {
+    background-color: #25a2c3;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+footer p {
+    color: #c8e7f0;
+}
